@@ -4,7 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unraveling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. About Me 🎓 I hold a degree in Computer Science with a focus on data analytics. 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modeling. 🌐 Curious about web scraping and API integration. Projects 1. Customer Segmentation using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts. 2. Predictive Modeling for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set. 3. Exploratory Data Analysis: Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. Skills Snapshot Languages: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub Connect with Me
+
+👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unraveling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
+**About Me** 🎓 
+I hold a degree in Computer Science with a focus on data analytics. 
+📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
+🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modeling. 
+🌐 Curious about web scraping and API integration. 
+**Projects** 
+1. Customer Segmentation using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts. 
+2. Predictive Modeling for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set. 
+**Exploratory Data Analysis:**
+Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. Skills Snapshot Languages: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub Connect with Me
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
